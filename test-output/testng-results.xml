@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="37912" started-at="2018-07-30T16:58:12Z" finished-at="2018-07-30T16:58:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="37912" started-at="2018-07-30T16:58:12Z" finished-at="2018-07-30T16:58:50Z">
+      <class name="com.ole.task.test.RegisterTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.ole.task.test.RegisterTest@91161c7]" name="setup" is-config="true" duration-ms="12415" started-at="2018-07-30T20:58:12Z" finished-at="2018-07-30T20:58:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="registerNewUser()[pri:0, instance:com.ole.task.test.RegisterTest@91161c7]" name="registerNewUser" duration-ms="25445" started-at="2018-07-30T20:58:25Z" finished-at="2018-07-30T20:58:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerNewUser -->
+      </class> <!-- com.ole.task.test.RegisterTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
